@@ -1,5 +1,3 @@
-
-
 module.exports.homelist = function(req, res) {
     res.render('location-list', {
         title: 'Loc8r - find a place to work with wifi',
